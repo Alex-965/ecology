@@ -1,0 +1,212 @@
+main {
+    height: 2000px;
+    width: 70%;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2);
+    margin: 10px auto;
+}
+
+header {
+    background: url(../img/Rectangle\ 55.jpg) no-repeat;
+}
+
+.titles {
+    color: rgba(75, 75, 75, 1);
+    padding-top: 75px;
+    text-align: center;
+}
+
+.titles h2 {
+    font-size: 44px;
+    width: 400px;
+    margin: 0 auto;
+}
+
+.steps {
+    margin-top: 80px;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.one h2 {
+    background: #959595;
+    text-align: center;
+    width: 300px;
+    padding: 7px;
+    border-radius: 30px;
+}
+
+.grey {
+    background: #959595;
+    text-align: center;
+    width: 300px;
+    padding: 20px;
+    border-radius: 30px;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.three h2 {
+    background: #C99696;
+    text-align: center;
+    width: 300px;
+    padding: 7px;
+    border-radius: 30px;
+    margin-top: 80px;
+}
+
+.pink {
+    background: #C99696;
+    text-align: center;
+    width: 300px;
+    padding: 20px;
+    border-radius: 30px;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.two h2 {
+    background: #67ACAC;
+    text-align: center;
+    width: 300px;
+    padding: 7px;
+    border-radius: 30px;
+}
+
+.blue {
+    background: #67ACAC;
+    text-align: center;
+    width: 300px;
+    padding: 20px;
+    border-radius: 30px;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.four h2 {
+    background: #78A178;
+    text-align: center;
+    width: 300px;
+    padding: 7px;
+    border-radius: 30px;
+    margin-top: 80px;
+}
+
+.green {
+    background: #78A178;
+    text-align: center;
+    width: 300px;
+    padding: 20px;
+    border-radius: 30px;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.conclusion {
+    color: rgba(75, 75, 75, 1);
+    margin-top: 70px;
+    text-align: center;
+}
+
+.conclusion p {
+    width: 510px;
+    margin: 50px auto;
+    border: 3px solid #78A178;
+    padding: 40px;
+    border-radius: 20px;
+}
+
+.news {
+    color: #4B4B4B;
+    margin-top: 100px;
+}
+
+.news h2 {
+    text-align: center;
+    font-size: 40px;
+}
+
+.block-one img {
+    width: 240px;
+    height: 140px;
+    border-radius: 25px 25px 0px 0px;
+}
+
+.block-one {
+    background: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    width: 240px;
+    height: 448px;
+    border-radius: 25px;
+    text-align: center;
+}
+
+.text-green {
+    font-size: 12px;
+    color: #6D854E;
+    margin-top: 15px;
+}
+
+.block-one h3 {
+    margin-top: 10px;
+    font-size: 28px;
+}
+
+.block-one p {
+    font-size: 12px;
+    ;
+    margin-top: 35px;
+}
+
+.blocks {
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.info {
+    color: white;
+    display: flex;
+    margin-top: 20px;
+}
+
+.views {
+    margin: 0 1px;
+}
+
+.likes,
+.views,
+.comments {
+    background: #78A178;
+    width: 80px;
+}
+
+.likes {
+    border-radius: 0px 0px 0px 25px;
+}
+
+.comments {
+    border-radius: 0px 0px 25px 0px;
+}
+
+.likes h3,
+.views h3,
+.comments h3 {
+    font-size: 20px;
+}
+
+.likes p,
+.views p,
+.comments p {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.block-two{
+    transform: scale(1.1);
+}
+.pi{
+    background: #98BCBC;
+}
+.li{
+    background: #C99696;
+}

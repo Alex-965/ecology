@@ -1,0 +1,115 @@
+main {
+    height: 3200px;
+    width: 70%;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2);
+    margin: 10px auto;
+}
+
+header {
+    background: url(../img/Rectangle\ 1.jpg) no-repeat;
+}
+
+.titles {
+    color: rgba(75, 75, 75, 1);
+    padding-top: 75px;
+    text-align: center;
+}
+
+.titles p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    margin: 0 auto;
+    margin-top: 35px;
+    width: 600px;
+    line-height: 25px;
+}
+
+.titles h2 {
+    font-size: 34px;
+}
+
+.something {
+    margin-top: 100px;
+}
+
+.some-one {
+    margin-top: 40px;
+    display: flex;
+    align-items: center;
+    color: rgba(75, 75, 75, 1);
+}
+
+.some-one img,
+.some-two img {
+    width: 350px;
+}
+
+.info h3 {
+    font-size: 24px;
+}
+
+.info p {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 25px;
+    text-align: left;
+    font-weight: 600;
+    padding-top: 50px;
+    width: 500px;
+}
+
+.some-two {
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: rgba(75, 75, 75, 1);
+}
+
+.info {
+    margin-left: 20px;
+}
+
+.some-two img:nth-child(2) {
+    margin-left: 18px;
+}
+
+.last-block {
+    margin-top: 100px;
+    color: rgba(75, 75, 75, 1);
+    display: flex;
+}
+
+.one {
+    width: 280px;
+    margin-top: 50px;
+}
+
+.one p,
+.two p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+}
+
+.two {
+    width: 190px;
+    margin-top: 50px;
+}
+
+.last-block img {
+    width: 280px;
+    height: 280px;
+    align-self: center;
+}
+
+.right {
+    text-align: end;
+
+}
+
+.left {
+    margin-left: 20px;
+}
+
+.lo {
+    margin-left: 90px;
+}

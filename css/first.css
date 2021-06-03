@@ -1,0 +1,179 @@
+.border {
+    height: 1600px;
+    width: 70%;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2);
+    margin: 10px auto;
+}
+
+header {
+    background: url(../img/header.png) no-repeat;
+}
+
+.about {
+    display: flex;
+    color: rgba(104, 102, 102, 1);
+    justify-content: space-around;
+    width: 100%;
+    align-items: flex-start;
+}
+
+.about-title {
+    font-size: 40px;
+    width: 100px;
+    margin-top: 75px;
+}
+
+.about-text {
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    width: 500px;
+    margin-top: 75px;
+}
+
+.we-can {
+    width: 83%;
+    margin: auto;
+    margin-top: 75px;
+    font-size: 35px;
+    color: #686666;
+    text-align: start;
+}
+
+.save {
+    color: #6D854E;
+    text-align: center;
+}
+
+.planet {
+    color: #C0B912;
+    text-align: end;
+}
+
+.times {
+    background: rgba(239, 239, 239, 0.4);
+    padding: 20px;
+    color: rgba(75, 75, 75, 1);
+    margin-top: 75px;
+}
+
+.times h2 {
+    width: 400px;
+    font-size: 30px;
+    margin-left: 60px;
+}
+
+.times img {
+    width: 85%;
+    margin-top: 20px;
+    margin-left: 60px;
+}
+
+.times h3 {
+    width: 100px;
+}
+
+.time span {
+    color: #6D854E;
+    font-size: 30px;
+}
+
+.time {
+    margin-left: 60px;
+    display: flex;
+    justify-content: space-between;
+    width: 76%;
+}
+
+.more h3 {
+    border: 5px solid #6D854E;
+    border-radius: 25px;
+    padding: 10px 20px;
+    width: 13vw;
+    margin-right: 80px;
+}
+
+.more {
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.popular-man img {
+    width: 220px;
+    height: 240px;
+}
+
+.popular-peoples {
+    margin-top: 75px;
+    display: flex;
+}
+
+.popular-man {
+    margin-left: 20px;
+}
+
+.popular-man h3 {
+    width: 50px;
+    color: rgba(75, 75, 75, 1);
+    margin-top: 10px;
+    font-size: 24px;
+}
+
+.about-man {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    color: rgba(75, 75, 75, 1);
+    font-size: 18px;
+    width: 140px;
+    margin-top: 50px;
+}
+
+.why h2 {
+    color: rgba(75, 75, 75, 1);
+    font-size: 35px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.first-span {
+    color: #6D854E;
+}
+
+.second-span {
+    color: #C0B912;
+}
+
+.video-info {
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.video-info p {
+    color: rgba(75, 75, 75, 1);
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    font-size: 26px;
+    text-align: center;
+    margin-left: 40px;
+}
+
+.popular-peoples-text {
+    color: rgb(99, 99, 99);
+    text-align: end;
+    margin-right: 10px;
+}
+
+.popular-peoples-text h2 {
+    font-size: 30px;
+    line-height: 40px;
+}
+
+.popular-peoples-text h3 {
+    margin-top: 80px;
+    line-height: 25px;
+}
